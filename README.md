@@ -1,5 +1,7 @@
 # CSRF
 
+![](https://github.com/Offensive-Penetration-Security/CSRF/blob/main/docs/cross-site%20request%20forgery.svg)
+
 - What is?
 
 Cross-site request forgery (also known as CSRF) is a web security vulnerability that allows an attacker to induce users to perform actions that they do not intend to perform. It allows an attacker to partly circumvent the same-origin policy, which is designed to prevent different websites from interfering with each other.
